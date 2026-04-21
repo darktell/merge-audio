@@ -34,14 +34,14 @@ The script can match files by:
 
 ## Usage
 
-### Run with folder picker
- bash python merge_audio.py
+### Run with the folder picker
+- `bash python merge_audio.py`
 ### Run with a specific folder
- bash python merge_audio.py /path/to/folder
+- `bash python merge_audio.py /path/to/folder`
 ### Use multiple parallel jobs
- bash python merge_audio.py /path/to/folder -j 4
+- `bash python merge_audio.py /path/to/folder -j 4`
 ### Preview matches without writing files
- bash python merge_audio.py /path/to/folder --dry-run
+- `bash python merge_audio.py /path/to/folder --dry-run`
 
 ## Output
 
